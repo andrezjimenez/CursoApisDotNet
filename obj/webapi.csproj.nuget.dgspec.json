@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\webapi\\webapi.csproj": {}
+    "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\sss\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\webapi\\webapi.csproj": {
+    "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\sss\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\sss\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\sss\\webapi.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\Andrés\\Desktop\\Platzi\\CS\\sss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,18 +44,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
