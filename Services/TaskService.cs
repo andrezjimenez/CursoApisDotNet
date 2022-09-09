@@ -1,6 +1,6 @@
 
-using Entityframeworkproject;
-using Entityframeworkproject.Models;
+
+using sss.Models;
 
 namespace sss.Services;
 
@@ -47,7 +47,9 @@ public class TaskService : ITaskService
 }
 
 public interface ITaskService{
-    IEnumerable <Tarea> Get();
-    
+    IEnumerable <Tarea> Get();    
+    Task Save (Tarea task);
     Task Update (Guid id, Tarea task);
+
+    Task Delete (Guid id);
 }

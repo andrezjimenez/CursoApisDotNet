@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using Entityframeworkproject.Models;
+using sss.Models;
 
 
-namespace Entityframeworkproject;
+namespace sss;
 
 public class TaskContext: DbContext
 {

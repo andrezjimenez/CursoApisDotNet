@@ -1,6 +1,7 @@
 
-using Entityframeworkproject;
-using Entityframeworkproject.Models;
+
+// using Entityframeworkproject.Models;
+using sss.Models;
 
 namespace sss.Services;
 
